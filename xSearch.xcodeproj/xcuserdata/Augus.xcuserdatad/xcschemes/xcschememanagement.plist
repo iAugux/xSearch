@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>SafariExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>xSearch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>B1ABFD571D238D5C001D37E5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B1ABFD6D1D238DC0001D37E5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
